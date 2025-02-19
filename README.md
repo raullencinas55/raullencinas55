@@ -76,9 +76,7 @@ Mi enfoque está en **crear soluciones tecnológicas eficientes y escalables**, 
 
 ## 📫 ¡Conectemos!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandro--lencinas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raullencinas55)  
-[![GitHub](https://img.shields.io/badge/GitHub-raullencinas55-black?style=flat&logo=github)](https://github.com/raullencinas55)  
-[![Email](https://img.shields.io/badge/Email-raullencinas55%40gmail.com-red?style=flat&logo=gmail)](mailto:raullencinas55@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandro--lencinas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raullencinas55)  [![GitHub](https://img.shields.io/badge/GitHub-raullencinas55-black?style=flat&logo=github)](https://github.com/raullencinas55)  [![Email](https://img.shields.io/badge/Email-raullencinas55%40gmail.com-red?style=flat&logo=gmail)](mailto:raullencinas55@gmail.com)  
 
 ---
 
