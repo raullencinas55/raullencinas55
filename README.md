@@ -1,92 +1,78 @@
 # 👋 ¡Hola! Soy Alejandro Lencinas  
 
-💻 **Desarrollador Full Stack | Tutor Universitario | Apasionado por la optimización de sistemas**  
-📍 Mendoza, Argentina  
+💻 **Técnico Universitario en Programación | Desarrollador Integral | [cite_start]Optimizando procesos mediante software** [cite: 44, 45, 50]
+[cite_start]📍 Buenos Aires (CABA) - Balvanera [cite: 45]
 
 ---
 
 ## 🚀 Sobre mí  
 
-Soy **Técnico Universitario en Programación**, con experiencia en desarrollo de software, automatización de procesos y bases de datos. Actualmente trabajo en **OSECAC**, donde diseñé y desarrollé un **sistema de turnos para la gestión médica**, mejorando la eficiencia operativa.  
+[cite_start]Soy **Técnico Universitario en Programación (UTN)** con una visión holística y un conocimiento técnico integral[cite: 45, 50]. [cite_start]Mi amplitud técnica me permite entender los sistemas en su totalidad y aplicar soluciones reales en entornos operativos[cite: 51].
 
-También me desempeñé como **Tutor en la UTN**, brindando apoyo a estudiantes en programación y desarrollo de material didáctico.  
+[cite_start]Actualmente me desempeño como **Jefe de Trabajos Prácticos (JTP) en la UTN**, donde conecto la gestión empresarial con el desarrollo tecnológico[cite: 55]. [cite_start]En **OSECAC**, lideré la transformación digital diseñando e implementando un sistema integral de turnos médicos que optimizó la atención institucional y redujo tareas manuales[cite: 59, 60, 63, 65].
 
-Mi enfoque está en **crear soluciones tecnológicas eficientes y escalables**, con un fuerte interés en **backend, testing e inteligencia artificial**. Siempre busco mejorar mis habilidades y aprender nuevas tecnologías.  
+[cite_start]Me destaco por un enfoque práctico, capacidad autodidacta y una rápida adaptación para construir soluciones funcionales orientadas a resultados[cite: 52].
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas  
 
-🔹 **Lenguajes:** Python, JavaScript, C#, PHP  
-🔹 **Backend:** Django, Laravel, Node.js  
-🔹 **Frontend:** HTML, CSS, React  
-🔹 **Bases de Datos:** MySQL, PostgreSQL  
-🔹 **Testing & QA:** Selenium, JUnit  
-🔹 **Metodologías:** Agile, Scrum  
-🔹 **DevOps & Herramientas:** Git, Docker, Linux  
+🔹 **Lenguajes:** Python | Java | PHP | [cite_start]JavaScript [cite: 47]
+🔹 **Frontend & UI:** HTML | CSS | React | [cite_start]Bootstrap [cite: 47]
+[cite_start]🔹 **Bases de Datos:** MySQL [cite: 47]
+🔹 **Testing & QA:** Manual y Unitario (JUnit) | [cite_start]Postman [cite: 48]
+[cite_start]🔹 **Metodologías:** Ágiles (Scrum) [cite: 48]
+[cite_start]🔹 **Ciberseguridad:** Fundamentos y formación avanzada (En curso) [cite: 48, 83]
 
 ---
 
 ## 📜 Educación y Certificaciones  
 
-### 🎓 **Educación**  
-- **Técnico Universitario en Programación** – UTN (2024)  
-- **Estudios Secundarios - Ciencias Naturales, Salud y Ambiente** – Roberto Azzoni  
+### [cite_start]🎓 **Educación Principal** - **Técnico Universitario en Programación** – Universidad Tecnológica Nacional (2024) [cite: 73, 74]
 
-### 📜 **Certificaciones en Programación y Desarrollo Web**  
-- **Microcredencial: Programación Nivel Intermedio** – ITU-UNCUYO (2023)  
-- **Programación Full Stack** – ITU-UNCUYO (2023)  
-- **Full Stack – Python** – Codo a Codo (2022)  
-- **Diseño y Desarrollo Web** – ITU-UNCUYO (2022)  
-- **Programación en Python** – ITU-UNCUYO (2021)  
-- **Programación en Java** – ITU-UNCUYO (2021)  
-- **Programación en PHP** – ITU-UNCUYO (2021)  
+### [cite_start]📜 **Programación y Desarrollo Web** - **Microcredencial: Programación Nivel Intermedio** – ITU-UNCUYO [cite: 76]
+- [cite_start]**Programación Full Stack** – UTN [cite: 77]
+- [cite_start]**Full Stack – Python** – Codo a Codo (CABA) [cite: 78]
+- [cite_start]**Diseño y Desarrollo Web** – ITU-UNCUYO [cite: 78]
+- [cite_start]**Programación en Python, Java y PHP** – ITU-UNCUYO [cite: 79]
 
-### 🤖 **Certificaciones en Inteligencia Artificial y Análisis de Datos**  
-- **Fundamentos de la Inteligencia Artificial** – FESAT (2024)  
-- **Análisis y Gestión de Datos** – FESAT (2022)  
+### [cite_start]🛠 **Testing y Calidad (QA)** - **Testing Avanzado** – UTN [cite: 80]
+- [cite_start]**Testing manual, ágil y con Herramientas** – UTN [cite: 81]
+- [cite_start]**Professional Testing Master** – UTN [cite: 81]
 
-### 🔐 **Certificaciones en Seguridad y Habilidades Blandas**  
-- **Introducción a la Seguridad Cibernética** – Cisco Networking Academy (2021)  
-- **Inglés Aplicado a las Tecnologías** – FESAT (2023)  
-- **El Aprendizaje en los Adultos** – Fundación Carlos Slim (2021)  
-
-### 🛠 **Certificaciones en Testing y QA**  
-- **Testing Avanzado** – UTN (2023)  
-- **Testing Manual, Ágil y con Herramientas** – UTN (2023)  
-- **Professional Testing Master** – UTN (2021)  
+### [cite_start]🤖 **IA, Datos y Seguridad** - **Fundamentos de la Inteligencia Artificial** – FESAT [cite: 82]
+- [cite_start]**Análisis y Gestión de Datos** – FESAT [cite: 82]
+- [cite_start]**Introducción a la Seguridad Cibernética** – Cisco [cite: 83]
+- [cite_start]**Experto en Ciberseguridad** – FESAT (En curso) [cite: 83]
 
 ---
 
 ## 📌 Proyectos Destacados  
 
-### **🩺 [Sistema de Turnos - OSECAC](https://github.com/raullencinas55/sistema-turnos)**
-🔹 Desarrollo de un sistema interno para gestionar turnos médicos, reduciendo tiempos de espera y optimizando la administración.  
-🔹 Implementado con **PHP (Laravel), MySQL y JavaScript**.  
-🔹 Capacitación al personal en el uso del sistema.  
+### **🩺 [Sistema de Gestión de Turnos](https://github.com/raullencinas55/sistema-turnos)**
+[cite_start]🔹 Desarrollo de un sistema integral para optimizar la administración médica y reducir tiempos de espera[cite: 63, 65].  
+[cite_start]🔹 Implementado con **PHP, MySQL y JavaScript**[cite: 47].  
+[cite_start]🔹 Incluyó la capacitación del personal para la adopción exitosa de la herramienta[cite: 64].  
 
 ### **📂 [Gestor de Documentos Académicos](https://github.com/raullencinas55/gestor-documentos)**
-🔹 Aplicación web para la gestión y almacenamiento de documentación académica.  
-🔹 Backend en **Django + PostgreSQL**, frontend en **React**.  
-🔹 Implementación de autenticación y permisos de usuario.  
-
-📌 **Explora más proyectos en mi repositorio:** 👉 [Mis Proyectos](https://github.com/raullencinas55?tab=repositories)  
+🔹 Aplicación web para el almacenamiento y gestión segura de documentación.  
+🔹 Tecnologías: **Python, React y Bases de Datos Relacionales**.  
+🔹 Implementación de sistemas de autenticación y permisos de usuario.  
 
 ---
 
 ## 📫 ¡Conectemos!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandro--lencinas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raullencinas55)  [![GitHub](https://img.shields.io/badge/GitHub-raullencinas55-black?style=flat&logo=github)](https://github.com/raullencinas55)  [![Email](https://img.shields.io/badge/Email-raullencinas55%40gmail.com-red?style=flat&logo=gmail)](mailto:raullencinas55@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raul_Lencinas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raullencinas55)  
+[![GitHub](https://img.shields.io/badge/GitHub-raullencinas55-black?style=for-the-badge&logo=github)](https://github.com/raullencinas55)  
+[![Email](https://img.shields.io/badge/Email-raullencinas55%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:raullencinas55@gmail.com)  
 
 ---
 
 ## 🚀 ¿Por qué elegirme?  
-✔️ Experiencia en desarrollo de software y automatización de procesos.  
-✔️ Capacidad para analizar problemas y optimizar sistemas.  
-✔️ Compromiso con el aprendizaje continuo y la mejora de habilidades.  
-✔️ Enfoque en soluciones eficientes y escalables.  
-
----
+[cite_start]✔️ **Visión Integral:** Capacidad para entender el ciclo completo de desarrollo, desde el backend hasta el testing[cite: 50, 51].  
+[cite_start]✔️ **Proactividad Real:** Experiencia transformando ineficiencias operativas en soluciones de software[cite: 51, 52].  
+[cite_start]✔️ **Compromiso Académico:** Experiencia como JTP y Tutor facilitando el aprendizaje tecnológico[cite: 55, 69].  
 
 <h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>  
-<h4 align="center">🔹 Siempre abierto a nuevas oportunidades y colaboraciones 🔹</h4>
+<h4 align="center">🔹 Siempre abierto a nuevos desafíos y colaboraciones en el sector IT 🔹</h4>
